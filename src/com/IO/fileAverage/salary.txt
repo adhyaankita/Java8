@@ -1,0 +1,5 @@
+EmpID|Department|Salary
+12|HR|1000
+10|IT|2000
+11|HR|1100
+15|IT|500
